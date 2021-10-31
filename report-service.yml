@@ -17,5 +17,10 @@ resilience4j.circuitbreaker:
   instances:
     default:
       minimumNumberOfCalls: 25
+resilience4j.ratelimiter:
+  instances:
+    default:
+      limitForPeriod: 4
+      limitRefreshPeriod: 10s
 billing:
   app: This is billing App Reporting Service defaulttest
