@@ -20,4 +20,4 @@ billing:
   app: This is billing App Account Service
   test: This is coming from local
 logging:
-    file: E://Microservice_WorkSpace/All_logs/account-service.log
+    file: E:\Microservice_WorkSpace\All_logs\account-service.log
