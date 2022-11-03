@@ -4,7 +4,7 @@ spring:
   application:
     name: service-registry
 billing:
-  app: This is billing App Service Discovery default service
+  app: This is billing App Service Discovery default service updated
 eureka:
   client:
     register-with-eureka: false
